@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ClipCutter Updates</title>
+        <link>https://saagarvaru.github.io/clipcutter/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.52</title>
+            <description>
+                <![CDATA[
+                <h2>What's New in Version 0.1.52</h2>
+                <ul>
+                    <li>Initial release</li>
+                    <li>Core video editing functionality</li>
+                    <li>Export and trimming features</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 15 Jan 2025 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.52/clipcutter-releases-0.1.52.dmg"
+                       sparkle:version="52"
+                       sparkle:shortVersionString="0.1.52"
+                       sparkle:edSignature="vXyD9aHRQiJQ8ABm2/j72xKP/Qc0hmCQfWUCvgG8H8jGqk1WGJXvnYJXu/a8JMMoV+Ke/0EJtXFTjbfmJKkXDQ=="
+                       length="1924353"
+                       type="application/x-apple-diskimage" />
+        </item>
+    </channel>
+</rss> 
