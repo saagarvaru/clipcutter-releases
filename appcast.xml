@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>ClipCutter Updates</title>
-        <link>https://saagarvaru.github.io/clipcutter-releases/appcast.xml</link>
+        <link>https://saagar.io/clipcutter-releases/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
@@ -11,12 +11,11 @@
                 <![CDATA[
                 <h2>What's New in Version 0.1.56</h2>
                 <ul>
-                    <li>Fixed Sparkle update system issues</li>
-                    <li>Improved version comparison logic</li>
+                    <li>sparkle updating tweaks</li>
                 </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 14 Jun 2025 04:41:04 +0000</pubDate>
+            <pubDate>Sat, 14 Jun 2025 05:14:52 +0000</pubDate>
             <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.56/clipcutter-releases-0.1.56.dmg"
                        sparkle:version="000156"
                        sparkle:shortVersionString="0.1.56"
