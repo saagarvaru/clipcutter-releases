@@ -15,11 +15,12 @@
                 </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 14 Jun 2025 04:16:53 +0000</pubDate>
+            <pubDate>Sat, 14 Jun 2025 04:41:04 +0000</pubDate>
             <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.56/clipcutter-releases-0.1.56.dmg"
                        sparkle:version="000156"
                        sparkle:shortVersionString="0.1.56"
-                       sparkle:edSignature="🔄 ⚠️ Sparkle signing tools not found. Install with: brew install sparkle"
+                       sparkle:edSignature="🔄 ⚠️ Sparkle signing tools not found. Install with: brew install sparkle
+🔄 ℹ️ Continuing without signature (updates will work but without cryptographic verification)"
                        length="9038457"
                        type="application/x-apple-diskimage" />
         </item>
