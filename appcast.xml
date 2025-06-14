@@ -11,7 +11,8 @@
                 <![CDATA[
                 <h2>What's New in Version 0.1.56</h2>
                 <ul>
-                    <li>sparkle updating tweaks</li>
+                    <li>Fixed Sparkle update system issues</li>
+                    <li>Improved version comparison logic</li>
                 </ul>
                 ]]>
             </description>
@@ -19,8 +20,6 @@
             <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.56/clipcutter-releases-0.1.56.dmg"
                        sparkle:version="000156"
                        sparkle:shortVersionString="0.1.56"
-                       sparkle:edSignature="🔄 ⚠️ Sparkle signing tools not found. Install with: brew install sparkle
-🔄 ℹ️ Continuing without signature (updates will work but without cryptographic verification)"
                        length="9038457"
                        type="application/x-apple-diskimage" />
         </item>
