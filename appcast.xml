@@ -6,21 +6,21 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.55</title>
+            <title>Version 0.1.56</title>
             <description>
                 <![CDATA[
-                <h2>What's New in Version 0.1.55</h2>
+                <h2>What's New in Version 0.1.56</h2>
                 <ul>
-                    <li>Bug fixes and improvements</li>
+                    <li>sparkle updating tweaks</li>
                 </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 14 Jun 2025 00:15:33 +0000</pubDate>
-            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.55/clipcutter-releases-0.1.55.dmg"
-                       sparkle:version="10155"
-                       sparkle:shortVersionString="0.1.55"
+            <pubDate>Sat, 14 Jun 2025 04:16:53 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.56/clipcutter-releases-0.1.56.dmg"
+                       sparkle:version="000156"
+                       sparkle:shortVersionString="0.1.56"
                        sparkle:edSignature="🔄 ⚠️ Sparkle signing tools not found. Install with: brew install sparkle"
-                       length="9056840"
+                       length="9038457"
                        type="application/x-apple-diskimage" />
         </item>
     </channel>
