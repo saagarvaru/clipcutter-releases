@@ -6,6 +6,25 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.58</title>
+            <description>
+                <![CDATA[
+                <h2>What's New in Version 0.1.58</h2>
+                <ul>
+                    <li>Enhanced Sparkle update logging and debugging</li>
+                    <li>Fixed update detection issues</li>
+                    <li>Improved update workflow</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Sat, 14 Jun 2025 19:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.57/clipcutter-releases-0.1.58.dmg"
+                       sparkle:version="000158"
+                       sparkle:shortVersionString="0.1.58"
+                       length="9038457"
+                       type="application/x-apple-diskimage" />
+        </item>
+        <item>
             <title>Version 0.1.57</title>
             <description>
                 <![CDATA[
@@ -35,6 +54,23 @@
                 ]]>
             </description>
             <pubDate>Sat, 14 Jun 2025 18:36:35 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.56/clipcutter-releases-0.1.56.dmg"
+                       sparkle:version="000156"
+                       sparkle:shortVersionString="0.1.56"
+                       length="9038457"
+                       type="application/x-apple-diskimage" />
+        </item>
+        <item>
+            <title>Version 0.1.56</title>
+            <description>
+                <![CDATA[
+                <h2>What's New in Version 0.1.56</h2>
+                <ul>
+                    <li>sparkle updating tweaks</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Sat, 14 Jun 2025 18:44:00 +0000</pubDate>
             <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.56/clipcutter-releases-0.1.56.dmg"
                        sparkle:version="000156"
                        sparkle:shortVersionString="0.1.56"
