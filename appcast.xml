@@ -41,22 +41,5 @@
                        length="9038457"
                        type="application/x-apple-diskimage" />
         </item>
-        <item>
-            <title>Version 0.1.56</title>
-            <description>
-                <![CDATA[
-                <h2>What's New in Version 0.1.56</h2>
-                <ul>
-                    <li>sparkle updating tweaks</li>
-                </ul>
-                ]]>
-            </description>
-            <pubDate>Sat, 14 Jun 2025 18:44:00 +0000</pubDate>
-            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.56/clipcutter-releases-0.1.56.dmg"
-                       sparkle:version="000156"
-                       sparkle:shortVersionString="0.1.56"
-                       length="9038457"
-                       type="application/x-apple-diskimage" />
-        </item>
     </channel>
 </rss>
