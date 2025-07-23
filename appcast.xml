@@ -6,6 +6,23 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.60</title>
+            <description>
+                <![CDATA[
+                <h2>What's New in Version 0.1.60</h2>
+                <ul>
+                    <li>Cloud ML service implemented for better moment detection</li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Sat, 14 Jun 2025 19:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.60/clipcutter-releases-0.1.60.dmg"
+                       sparkle:version="000158"
+                       sparkle:shortVersionString="0.1.60"
+                       length="9038457"
+                       type="application/x-apple-diskimage" />
+        </item>
+        <item>
             <title>Version 0.1.58</title>
             <description>
                 <![CDATA[
