@@ -6,6 +6,33 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.64</title>
+            <description>
+                <![CDATA[
+                <h2>CRITICAL SECURITY UPDATE: What's New in Version 0.1.64</h2>
+                  <ul>
+                    <li><b>New:</b> Features
+                    <ul>
+                        <li>Added sorting functionality to the highlighted moments. You can now sort by clip duration, chronological based on the timeline, and type of moment (key, fair, minor)</li>
+                        <li>New logo</li>
+                    </ul>
+                    </li>
+                    <li><b>Improved:</b> Performance
+                    <ul>
+                        <li>Optimized onboarding flows</li>
+                    </ul>
+                    </li>
+                </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 23 Aug 2025 19:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.64/clipcutter-releases-0.1.64.dmg"
+                       sparkle:version="164"
+                       sparkle:shortVersionString="0.1.64"
+                       length="9038457"
+                       type="application/x-apple-diskimage" />
+        </item>
+        <item>
             <title>Version 0.1.63</title>
             <description>
                 <![CDATA[
