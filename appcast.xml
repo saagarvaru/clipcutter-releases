@@ -10,19 +10,19 @@
             <description>
                 <![CDATA[
                 <h2>CRITICAL SECURITY UPDATE: What's New in Version 0.1.64</h2>
-                  <ul>
-                    <li><b>New:</b> Features
                     <ul>
-                        <li>Added sorting functionality to the highlighted moments. You can now sort by clip duration, chronological based on the timeline, and type of moment (key, fair, minor)</li>
-                        <li>New logo</li>
+                        <li><b>New:</b>
+                        <ul>
+                            <li>You can now sort highlighted moments — choose by clip length, timeline order, or moment type (key, fair, minor).</li>
+                            <li>Fresh new logo for a cleaner look.</li>
+                        </ul>
+                        </li>
+                        <li><b>Improved:</b>
+                        <ul>
+                            <li>Smoother onboarding experience to help you get started faster.</li>
+                        </ul>
+                        </li>
                     </ul>
-                    </li>
-                    <li><b>Improved:</b> Performance
-                    <ul>
-                        <li>Optimized onboarding flows</li>
-                    </ul>
-                    </li>
-                </ul>
                 ]]>
             </description>
             <pubDate>Tue, 23 Aug 2025 19:00:00 +0000</pubDate>
