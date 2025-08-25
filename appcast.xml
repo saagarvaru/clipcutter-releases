@@ -6,29 +6,33 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.64</title>
+            <title>Version 0.1.68</title>
             <description>
                 <![CDATA[
-                <h2>CRITICAL SECURITY UPDATE: What's New in Version 0.1.64</h2>
+                <h2>CRITICAL SECURITY UPDATE: What's New in Version 0.1.68</h2>
                     <ul>
                         <li><b>New:</b>
                         <ul>
-                            <li>You can now sort highlighted moments — choose by clip length, timeline order, or moment type (key, fair, minor).</li>
-                            <li>Fresh new logo for a cleaner look.</li>
+                            <li>AI Highlight Reel Generator - Automatically generate a highlight reel from your moments</li>
+                            <li>Clips Compiliation Feature - Compile your clips into a single video</li>
                         </ul>
                         </li>
                         <li><b>Improved:</b>
                         <ul>
                             <li>Smoother onboarding experience to help you get started faster.</li>
+                            <li>Cleaned up the moment finder UI</li>
+                            <li>Improved clip editing experience</li>
+                            <li>Improved clips panel</li>
+                            <li>Overall UI improvements</li>
                         </ul>
                         </li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Tue, 23 Aug 2025 19:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.64/clipcutter-releases-0.1.64.dmg"
-                       sparkle:version="164"
-                       sparkle:shortVersionString="0.1.64"
+            <pubDate>Mon, 25 Aug 2025 19:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.64/clipcutter-releases-0.1.68.dmg"
+                       sparkle:version="168"
+                       sparkle:shortVersionString="0.1.68"
                        length="9038457"
                        type="application/x-apple-diskimage" />
         </item>
