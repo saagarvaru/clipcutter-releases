@@ -6,6 +6,33 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.70</title>
+            <description>
+                <![CDATA[
+                <h2>What's New in Version 0.1.70</h2>
+                    <ul>
+                        <li><b>New:</b>
+                        <ul>
+                            <li>Free Initial Tokens - Test out your first few videos with on us!</li>
+                            <li>AI Highlight Reel Generator - Automatically create personalized video highlights</li>
+                        </ul>
+                        </li>
+                        <li><b>Improved:</b>
+                        <ul>
+                            <li>Refreshed MomentFinder Experience</li>
+                        </ul>
+                    </ul>
+                </h2>
+                ]]>
+            </description>
+            <pubDate>Sat, 13 Sept 2025 19:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/download/v0.1.70/clipcutter-releases-0.1.70.dmg"
+                       sparkle:version="170"
+                       sparkle:shortVersionString="0.1.70"
+                       length="9038457"
+                       type="application/x-apple-diskimage" />
+        </item>
+        <item>
             <title>Version 0.1.68</title>
             <description>
                 <![CDATA[
