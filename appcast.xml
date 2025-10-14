@@ -6,6 +6,24 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.71</title>
+            <description>
+                <![CDATA[
+                <h2>What's New in Version 0.1.71</h2>
+                    <ul>
+                        <li>Fixed memory issue limiting exports.</li>
+                    </ul>
+                </h2>
+                ]]>
+            </description>
+            <pubDate>Sat, 13 Oct 2025 19:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/saagarvaru/clipcutter-releases/releases/latest/download/ClipCutter.dmg"
+                       sparkle:version="171"
+                       sparkle:shortVersionString="0.1.71"
+                       length="9038457"
+                       type="application/x-apple-diskimage" />
+        </item>
+        <item>
             <title>Version 0.1.70</title>
             <description>
                 <![CDATA[
